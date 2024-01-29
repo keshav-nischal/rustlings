@@ -1,0 +1,8 @@
+variables
+    all variables are immutable in rust by default
+    use mut to make them mutable
+
+    shadowing can be used to change the variable type
+
+    const var needs type
+
